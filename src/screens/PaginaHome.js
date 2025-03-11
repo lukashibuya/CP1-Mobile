@@ -29,7 +29,6 @@ export default function HomeScreen() {
     return (
         <View style={styles.container}>
             <Text style={styles.titulo}>CALCULADORA DE AUMENTO</Text>
-            <image>CP1-Mobile/assets/calculadora.png</image>
             <TextInput
                 style={styles.input}
                 placeholder="Nome do produto"
